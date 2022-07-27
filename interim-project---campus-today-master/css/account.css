@@ -1,0 +1,110 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+body{
+	background-color: #eee;
+	
+}
+.head{
+	width: 100%;
+	text-align: center;
+	font-size: 50px;
+	line-height: 120px;
+	background-color: white;
+	
+}
+.head .headlf{
+	float: left;
+	font-size: 50px;
+}
+
+.photo{
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	background-color: #ADD8E6;
+	display: flex;
+	justify-content: center;
+		align-items: center;
+		margin-right: 25px;
+}
+.photo img{
+	width: 60px;
+	
+	
+}
+.phone{
+	background-color: white;
+	font-size: 30px;
+	margin: 25px 0;
+	height: 150px;
+	align-items: center;
+	padding:0 20px;
+}
+.wechat{
+	font-size: 30px;
+	border-bottom: 3px solid gainsboro;
+	height: 150px;
+	align-items: center;
+	padding:0 20px;
+}
+.qq{
+	font-size: 30px;
+	border-bottom: 3px solid gainsboro;
+	height: 150px;
+	align-items: center;
+	padding:0 20px;
+}
+.set{
+	font-size: 30px;
+	height: 150px;
+	align-items: center;
+	padding:0 20px;
+}
+.a1{
+	font-weight: 800;
+}
+.b1{
+	color: gray;
+}
+.box{
+	background-color: white;
+}
+#a1{
+	display: flex;
+	justify-content: space-between;
+}
+#b1{
+	display: flex;
+	
+}
+#settext{
+	align-items: center;
+	line-height: 100px;
+}
+#photo{
+	background-color: gainsboro;
+}
+#phone{
+	background-color: cornflowerblue;
+	}
+#set{
+	background-color: gray;
+}
+.rgphone{
+	color: gray;
+}
+.rgqq{
+	color: gray;
+}
+.rgset{
+	color: gray;
+}
+.rgwechat{
+	color: gray;
+}
+	
